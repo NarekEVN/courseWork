@@ -1,0 +1,9 @@
+.map {
+    margin-top: 55px;
+}
+
+main .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 25px;
+}
